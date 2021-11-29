@@ -8,3 +8,8 @@ ESC key will switch from command to user mode.
 In Default Mode the max window size is 20 metadata and scroll to other data l & k can be used.
 Application works in full screen mode only.
 In command mode after the message is displayed press ENTER to continue.
+
+
+Errors to be rectified :
+Renaming files changes permissions of that file.
+Resizing terminal does not work.
